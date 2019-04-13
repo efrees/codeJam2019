@@ -4,12 +4,11 @@ using System.Linq;
 
 namespace Round1A
 {
-    public class ProgramC
+    public class Pylons
     {
-        // Pylons
         // Mono compile error as of the end of the round
         // Runtime error once C# 7 syntax was swapped with equivalent
-        static void Main(string[] args)
+        static void _Main(string[] args)
         {
             var t = int.Parse(Console.ReadLine());
 

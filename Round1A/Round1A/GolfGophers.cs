@@ -4,10 +4,9 @@ using System.Linq;
 
 namespace Round1A
 {
-    public class ProgramB
+    public class GolfGophers
     {
-        //Golf Gophers
-        static void MainB(string[] args)
+        static void Main(string[] args)
         {
             var tokens = Console.ReadLine().Split(' ');
             var t = int.Parse(tokens[0]);

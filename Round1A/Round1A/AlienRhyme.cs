@@ -4,10 +4,9 @@ using System.Linq;
 
 namespace Round1A
 {
-    public class ProgramA
+    public class AlienRhyme
     {
-        // Alien Rhyme
-        static void MainA(string[] args)
+        static void _Main(string[] args)
         {
             var t = int.Parse(Console.ReadLine());
 
